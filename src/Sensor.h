@@ -11,6 +11,7 @@ namespace BusType {
 	constexpr uint8_t I2C = 1;
 	constexpr uint8_t SDI12 = 2;
 	constexpr uint8_t CORE = 3; ///<You don't exist; you were never even born. Anonymity is your name. Silence your native tongue. You're no longer part of the System.
+	constexpr uint8_t ANALOG = 4;
 };
 
 namespace PowerSaveModes {
